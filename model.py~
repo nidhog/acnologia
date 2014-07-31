@@ -1,0 +1,15 @@
+"""
+Will contain the learning models
+
+"""
+
+def LogisticRegressionModel():
+    pass
+
+def HiddenLayer():
+    pass
+
+def Perceptron():
+    pass
+
+
