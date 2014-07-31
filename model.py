@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 """
 Will contain the learning models
 
